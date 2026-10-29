@@ -1,0 +1,1 @@
+Interactive R Shiny dashboard exploring Kenya’s maize production (2012–2024). Features national and county trends in production, cultivated area and yield; county rankings; strategic performance segmentation; probabilistic yield modelling; spatial mapping; and dynamic visualizations for data-driven agricultural analysis.
